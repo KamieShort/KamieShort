@@ -12,7 +12,7 @@ Full Stack Software Engineer => learning cool stuff every day!
 
 ## Tech Stack: HTML | CSS | JavaScript | JSX | React | GitHub | Supabase | Netlify | Miro
 
-Learning NodeJS, ExpressJS, Postgres SQL.
+Learning NodeJS, ExpressJS, PostgreSQL.
 
 ## Projects
 
