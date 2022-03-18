@@ -1,20 +1,17 @@
-<h1 align="center">Welcome to KamieShort 👋</h1>
-<p>
+<h1 align="center">Hi!👋 I am Kamie 👩🏼‍💻</h1>
+<p> 
 </p>
 
-> Profile README
+## About
 
-## Author
+Full Stack Software Engineer => learning cool stuff everyday!
 
-👤 **Kamie Short**
+-   Website: https://www.linkedin.com/in/kamieshort/
+-   Github: [@KamieShort](https://github.com/KamieShort)
+-   LinkedIn: https://www.linkedin.com/in/kamieshort/
 
-* Website: https://www.linkedin.com/in/kamieshort/
-* Github: [@KamieShort](https://github.com/KamieShort)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/kamieshort\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/kamieshort\/)
+### Hobbies
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+-   Family
+-   Dogs
+-   CamperVans
