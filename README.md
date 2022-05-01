@@ -11,11 +11,11 @@ Full Stack Software Engineer => learning cool stuff every day!
 -   LinkedIn: https://www.linkedin.com/in/kamieshort/
 
 ## Tech Stack
-Languages: JavaScript | HTML | CSS 
-Libraries & Frameworks: React | Express (In-Training) | Node (In-Training)
-Testing: React Testing Library | Jest | MSW 
-Databases: Supabase | PostgreSQL (In-Training)
-Dev Tools: GitHub | Netlify | Miro | VS Code
+- Languages: JavaScript | HTML | CSS 
+- Libraries & Frameworks: React | Express (In-Training) | Node (In-Training)
+- Testing: React Testing Library | Jest | MSW 
+- Databases: Supabase | PostgreSQL (In-Training)
+- Dev Tools: GitHub | Netlify | Miro | VS Code
 
 Learning NodeJS, ExpressJS, PostgreSQL.
 
