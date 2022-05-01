@@ -21,8 +21,9 @@ Learning NodeJS, ExpressJS, PostgreSQL.
 
 ## Projects
 
--   Markit: https://deploy-preview-123--wizardly-johnson-11e23c.netlify.app/
 -   Forage Parking- Mobile App: https://forage-parking.netlify.app/
+-   Markit: https://deploy-preview-123--wizardly-johnson-11e23c.netlify.app/
+
 
 ### Hobbies
 
