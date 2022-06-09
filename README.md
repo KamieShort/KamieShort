@@ -17,8 +17,6 @@ Full Stack Software Engineer => learning cool stuff every day!
 - Databases: Supabase | PostgreSQL 
 - Dev Tools: GitHub | Netlify | Heroku | Miro | VS Code | Beekeeper Studio
 
-Learning NodeJS, ExpressJS, PostgreSQL.
-
 ## Projects
 
 -   Forage Parking- Mobile App: https://forage-parking.netlify.app/
