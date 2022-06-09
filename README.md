@@ -12,10 +12,10 @@ Full Stack Software Engineer => learning cool stuff every day!
 
 ## Tech Stack
 - Languages: JavaScript | HTML | CSS 
-- Libraries & Frameworks: React | Express (In-Training) | Node (In-Training)
+- Libraries & Frameworks: React | Express | Node 
 - Testing: React Testing Library | Jest | MSW 
-- Databases: Supabase | PostgreSQL (In-Training)
-- Dev Tools: GitHub | Netlify | Miro | VS Code
+- Databases: Supabase | PostgreSQL 
+- Dev Tools: GitHub | Netlify | Heroku | Miro | VS Code | Beekeeper Studio
 
 Learning NodeJS, ExpressJS, PostgreSQL.
 
