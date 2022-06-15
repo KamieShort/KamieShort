@@ -19,7 +19,7 @@ Full Stack Software Engineer => learning cool stuff every day!
 
 ## Projects
 
-- BrainJuice: dapper-mooncake-c6e5a7.netlify.app/
+-   BrainJuice: https://dapper-mooncake-c6e5a7.netlify.app/
 -   Forage Parking- Mobile App: https://forage-parking.netlify.app/
 -   Markit: https://deploy-preview-123--wizardly-johnson-11e23c.netlify.app/
 
